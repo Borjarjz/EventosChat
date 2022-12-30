@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventosChat</string>
+    <string name="text_header">segunda activity</string>
+    <string name="button_second">Enviar</string>
+    <string name="editText_second" />
+    <string name="editText_Main" />
+    <string name="text_header_reply">Reply Received</string>
+</resources>
